@@ -1,5 +1,5 @@
 # This a sample file
 
-I createthis file because i was bored.
-theres Too much on github..
-i did commit.
+i create this file because i was bored.
+theres Too much on github.
+this line is edited.
